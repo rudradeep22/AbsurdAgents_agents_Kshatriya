@@ -1,0 +1,2253 @@
+{
+    "first_word": "raise",
+    "num_answers_tested": 219,
+    "per_word_results": {
+        "ABACK": {
+            "guesses": [
+                "raise",
+                "coala",
+                "knack",
+                "thack",
+                "aback"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "ABASE": {
+            "guesses": [
+                "raise",
+                "cease",
+                "blase",
+                "abase"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ABATE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "abate"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "ABBEY": {
+            "guesses": [
+                "raise",
+                "metal",
+                "advew",
+                "apnea",
+                "abbey"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "ABYSS": {
+            "guesses": [
+                "raise",
+                "blash",
+                "abysm",
+                "abyss"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ACUTE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "acute"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "ADOBE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "anode",
+                "adobe"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "AGATE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "abate",
+                "agate"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "AGREE": {
+            "guesses": [
+                "raise",
+                "crate",
+                "abore",
+                "agree"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ALONE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "albee",
+                "alone"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ALTAR": {
+            "guesses": [
+                "raise",
+                "boart",
+                "artal",
+                "altar"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ARGUE": {
+            "guesses": [
+                "raise",
+                "crate",
+                "areae",
+                "argue"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ASIDE": {
+            "guesses": [
+                "raise",
+                "aside"
+            ],
+            "is_solved": true,
+            "num_guesses": 2
+        },
+        "AUDIT": {
+            "guesses": [
+                "raise",
+                "liana",
+                "axoid",
+                "admit",
+                "audit"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "AWAKE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "agape",
+                "awake"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BADLY": {
+            "guesses": [
+                "raise",
+                "manly",
+                "bally",
+                "badly"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BANAL": {
+            "guesses": [
+                "raise",
+                "manly",
+                "banal"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BASIC": {
+            "guesses": [
+                "raise",
+                "kadis",
+                "basic"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BATON": {
+            "guesses": [
+                "raise",
+                "manly",
+                "tacan",
+                "baton"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BATTY": {
+            "guesses": [
+                "raise",
+                "manly",
+                "cadgy",
+                "patty",
+                "batty"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "BELCH": {
+            "guesses": [
+                "raise",
+                "toled",
+                "belly",
+                "belch"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BELLY": {
+            "guesses": [
+                "raise",
+                "toled",
+                "belly"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BENCH": {
+            "guesses": [
+                "raise",
+                "toled",
+                "enemy",
+                "begun",
+                "bench"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "BIOME": {
+            "guesses": [
+                "raise",
+                "ligne",
+                "yitie",
+                "piece",
+                "biome"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "BLEED": {
+            "guesses": [
+                "raise",
+                "toled",
+                "blued",
+                "bleed"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BLURT": {
+            "guesses": [
+                "raise",
+                "truly",
+                "blurt"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BLUSH": {
+            "guesses": [
+                "raise",
+                "hussy",
+                "blush"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BOOBY": {
+            "guesses": [
+                "raise",
+                "phony",
+                "blowy",
+                "booby"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BOOST": {
+            "guesses": [
+                "raise",
+                "hussy",
+                "glost",
+                "boost"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BOOZY": {
+            "guesses": [
+                "raise",
+                "phony",
+                "blowy",
+                "booby",
+                "boody",
+                "boofy"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "BRAKE": {
+            "guesses": [
+                "raise",
+                "crate",
+                "brame",
+                "brake"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "BREAK": {
+            "guesses": [
+                "raise",
+                "denar",
+                "break"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BRIAR": {
+            "guesses": [
+                "raise",
+                "trial",
+                "briar"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "BRIBE": {
+            "guesses": [
+                "raise",
+                "trice",
+                "gride",
+                "brize",
+                "bribe"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "BRING": {
+            "guesses": [
+                "raise",
+                "gript",
+                "bring"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CHAMP": {
+            "guesses": [
+                "raise",
+                "coala",
+                "chank",
+                "chaft",
+                "champ"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "CHEAT": {
+            "guesses": [
+                "raise",
+                "metal",
+                "cheat"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CHILL": {
+            "guesses": [
+                "raise",
+                "cling",
+                "child",
+                "chili",
+                "chill"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "CIGAR": {
+            "guesses": [
+                "raise",
+                "chair",
+                "cigar"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CIVIC": {
+            "guesses": [
+                "raise",
+                "linty",
+                "bipod",
+                "civic"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "CLICK": {
+            "guesses": [
+                "raise",
+                "cling",
+                "clift",
+                "click"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "CLOCK": {
+            "guesses": [
+                "raise",
+                "phony",
+                "block",
+                "clock"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "CLUCK": {
+            "guesses": [
+                "raise",
+                "phony",
+                "bucku",
+                "cluck"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "COAST": {
+            "guesses": [
+                "raise",
+                "blash",
+                "amass",
+                "coast"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "COLON": {
+            "guesses": [
+                "raise",
+                "phony",
+                "mondo",
+                "cogon",
+                "colon"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "COMET": {
+            "guesses": [
+                "raise",
+                "toled",
+                "comet"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CONIC": {
+            "guesses": [
+                "raise",
+                "linty",
+                "conic"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CORNY": {
+            "guesses": [
+                "raise",
+                "truly",
+                "corky",
+                "corby",
+                "corny"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "CRANK": {
+            "guesses": [
+                "raise",
+                "boart",
+                "franc",
+                "crank"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "CRASS": {
+            "guesses": [
+                "raise",
+                "brass",
+                "crass"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CRATE": {
+            "guesses": [
+                "raise",
+                "crate"
+            ],
+            "is_solved": true,
+            "num_guesses": 2
+        },
+        "CRAZE": {
+            "guesses": [
+                "raise",
+                "crate",
+                "crake",
+                "crame",
+                "crane",
+                "crape"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "CRAZY": {
+            "guesses": [
+                "raise",
+                "boart",
+                "franc",
+                "crapy",
+                "crazy"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "CRIMP": {
+            "guesses": [
+                "raise",
+                "gript",
+                "crimp"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "CROAK": {
+            "guesses": [
+                "raise",
+                "boart",
+                "algor",
+                "croak"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "CRUST": {
+            "guesses": [
+                "raise",
+                "prost",
+                "brust",
+                "crust"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "DEATH": {
+            "guesses": [
+                "raise",
+                "metal",
+                "beath",
+                "death"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "DELTA": {
+            "guesses": [
+                "raise",
+                "metal",
+                "leapt",
+                "delta"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "DIGIT": {
+            "guesses": [
+                "raise",
+                "linty",
+                "dicht",
+                "digit"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "DOWRY": {
+            "guesses": [
+                "raise",
+                "truly",
+                "corky",
+                "goory",
+                "dowry"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "DOZEN": {
+            "guesses": [
+                "raise",
+                "toled",
+                "coden",
+                "doven",
+                "doyen",
+                "dozen"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "DRAIN": {
+            "guesses": [
+                "raise",
+                "chair",
+                "trail",
+                "brain",
+                "drain"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "DRINK": {
+            "guesses": [
+                "raise",
+                "gript",
+                "drink"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "DUCHY": {
+            "guesses": [
+                "raise",
+                "phony",
+                "hulky",
+                "duchy"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "DUTCH": {
+            "guesses": [
+                "raise",
+                "phony",
+                "butch",
+                "cutch",
+                "dutch"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "DWARF": {
+            "guesses": [
+                "raise",
+                "boart",
+                "clary",
+                "awarn",
+                "dwarf"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "ENEMA": {
+            "guesses": [
+                "raise",
+                "metal",
+                "amend",
+                "enema"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "EPOCH": {
+            "guesses": [
+                "raise",
+                "toled",
+                "embog",
+                "epoch"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ERODE": {
+            "guesses": [
+                "raise",
+                "crore",
+                "droke",
+                "erode"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ERROR": {
+            "guesses": [
+                "raise",
+                "outer",
+                "bevor",
+                "ephor",
+                "error"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "ESSAY": {
+            "guesses": [
+                "raise",
+                "leats",
+                "skean",
+                "essay"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "EVADE": {
+            "guesses": [
+                "raise",
+                "alate",
+                "ceaze",
+                "knave",
+                "evade"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "EXULT": {
+            "guesses": [
+                "raise",
+                "toled",
+                "cleft",
+                "exult"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "FAVOR": {
+            "guesses": [
+                "raise",
+                "yarco",
+                "gator",
+                "valor",
+                "favor"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "FEIGN": {
+            "guesses": [
+                "raise",
+                "teind",
+                "feign"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FERRY": {
+            "guesses": [
+                "raise",
+                "outer",
+                "clerk",
+                "berry",
+                "derry",
+                "ferry"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "FINER": {
+            "guesses": [
+                "raise",
+                "idler",
+                "niter",
+                "biner",
+                "finer"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "FIRST": {
+            "guesses": [
+                "raise",
+                "birsy",
+                "first"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FIXER": {
+            "guesses": [
+                "raise",
+                "idler",
+                "niter",
+                "fiver",
+                "fiber",
+                "fifer"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "FJORD": {
+            "guesses": [
+                "raise",
+                "truly",
+                "dobro",
+                "chord",
+                "fjord"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "FLESH": {
+            "guesses": [
+                "raise",
+                "ghest",
+                "flesh"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FLICK": {
+            "guesses": [
+                "raise",
+                "cling",
+                "flick"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FLING": {
+            "guesses": [
+                "raise",
+                "cling",
+                "bling",
+                "fling"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "FLOSS": {
+            "guesses": [
+                "raise",
+                "hussy",
+                "glost",
+                "floss"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "FLUME": {
+            "guesses": [
+                "raise",
+                "noule",
+                "flume"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FOCAL": {
+            "guesses": [
+                "raise",
+                "coala",
+                "focal"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FORGE": {
+            "guesses": [
+                "raise",
+                "crore",
+                "forge"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FORTH": {
+            "guesses": [
+                "raise",
+                "truly",
+                "forth"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "FRESH": {
+            "guesses": [
+                "raise",
+                "crest",
+                "dress",
+                "fresh"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "FRONT": {
+            "guesses": [
+                "raise",
+                "truly",
+                "crwth",
+                "dropt",
+                "front"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "GAMMA": {
+            "guesses": [
+                "raise",
+                "manly",
+                "gamba",
+                "gamma"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "GAUDY": {
+            "guesses": [
+                "raise",
+                "manly",
+                "cadgy",
+                "gaudy"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "GOLEM": {
+            "guesses": [
+                "raise",
+                "toled",
+                "coley",
+                "golem"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "GONER": {
+            "guesses": [
+                "raise",
+                "outer",
+                "moper",
+                "cower",
+                "boner",
+                "doner"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "GORGE": {
+            "guesses": [
+                "raise",
+                "crore",
+                "forge",
+                "gorge"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "GOUGE": {
+            "guesses": [
+                "raise",
+                "noule",
+                "coupe",
+                "bouge",
+                "gouge"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "GRADE": {
+            "guesses": [
+                "raise",
+                "crate",
+                "brame",
+                "drape",
+                "grade"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "GREAT": {
+            "guesses": [
+                "raise",
+                "denar",
+                "break",
+                "areal",
+                "great"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "GREET": {
+            "guesses": [
+                "raise",
+                "outer",
+                "beret",
+                "freet",
+                "greet"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "GRIME": {
+            "guesses": [
+                "raise",
+                "trice",
+                "gride",
+                "grike",
+                "grime"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "GRIPE": {
+            "guesses": [
+                "raise",
+                "trice",
+                "gride",
+                "grike",
+                "grime",
+                "gripe"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "GROIN": {
+            "guesses": [
+                "raise",
+                "nitro",
+                "orpin",
+                "groin"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "GROUP": {
+            "guesses": [
+                "raise",
+                "truly",
+                "group"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "GROWL": {
+            "guesses": [
+                "raise",
+                "truly",
+                "brool",
+                "growl"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "GUILD": {
+            "guesses": [
+                "raise",
+                "cling",
+                "guild"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "HATCH": {
+            "guesses": [
+                "raise",
+                "manly",
+                "cagot",
+                "batch",
+                "hatch"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "HEATH": {
+            "guesses": [
+                "raise",
+                "metal",
+                "beath",
+                "death",
+                "heath"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "HELIX": {
+            "guesses": [
+                "raise",
+                "kidel",
+                "elchi",
+                "helio",
+                "helix"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "HERON": {
+            "guesses": [
+                "raise",
+                "outer",
+                "genro",
+                "heron"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "HUMPH": {
+            "guesses": [
+                "raise",
+                "phony",
+                "bumph",
+                "humph"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "HYPER": {
+            "guesses": [
+                "raise",
+                "outer",
+                "defer",
+                "breer",
+                "egger",
+                "hyper"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "ISLET": {
+            "guesses": [
+                "raise",
+                "sient",
+                "besit",
+                "islet"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "IVORY": {
+            "guesses": [
+                "raise",
+                "nitro",
+                "koori",
+                "ivory"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "JAUNT": {
+            "guesses": [
+                "raise",
+                "manly",
+                "tacan",
+                "daunt",
+                "gaunt",
+                "haunt"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "KARMA": {
+            "guesses": [
+                "raise",
+                "yarco",
+                "karma"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "KEBAB": {
+            "guesses": [
+                "raise",
+                "metal",
+                "decan",
+                "bekah",
+                "kebab"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "LABOR": {
+            "guesses": [
+                "raise",
+                "yarco",
+                "gator",
+                "valor",
+                "labor"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "LAPEL": {
+            "guesses": [
+                "raise",
+                "lawed",
+                "lacet",
+                "label",
+                "lapel"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "LINEN": {
+            "guesses": [
+                "raise",
+                "kidel",
+                "limen",
+                "linen"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "LOOPY": {
+            "guesses": [
+                "raise",
+                "phony",
+                "goopy",
+                "loopy"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "LUSTY": {
+            "guesses": [
+                "raise",
+                "sloot",
+                "lunts",
+                "lusty"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "LYING": {
+            "guesses": [
+                "raise",
+                "cling",
+                "lying"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "MAJOR": {
+            "guesses": [
+                "raise",
+                "yarco",
+                "gator",
+                "valor",
+                "major"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "MARRY": {
+            "guesses": [
+                "raise",
+                "yarco",
+                "bardy",
+                "parky",
+                "marry"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "MASSE": {
+            "guesses": [
+                "raise",
+                "halse",
+                "masse"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "MAXIM": {
+            "guesses": [
+                "raise",
+                "mandi",
+                "mafic",
+                "malik",
+                "maxim"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "MIMIC": {
+            "guesses": [
+                "raise",
+                "linty",
+                "bipod",
+                "civic",
+                "mimic"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "MODEL": {
+            "guesses": [
+                "raise",
+                "toled",
+                "jodel",
+                "model"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "MOTOR": {
+            "guesses": [
+                "raise",
+                "truly",
+                "forth",
+                "motor"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "MOULT": {
+            "guesses": [
+                "raise",
+                "phony",
+                "dumbo",
+                "kokum",
+                "moult"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "NAVAL": {
+            "guesses": [
+                "raise",
+                "manly",
+                "balun",
+                "nahal",
+                "natal",
+                "naval"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "OFFAL": {
+            "guesses": [
+                "raise",
+                "coala",
+                "aglow",
+                "bloat",
+                "offal"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "OUGHT": {
+            "guesses": [
+                "raise",
+                "phony",
+                "couth",
+                "ought"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "OUTDO": {
+            "guesses": [
+                "raise",
+                "phony",
+                "dumbo",
+                "outdo"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "PANEL": {
+            "guesses": [
+                "raise",
+                "lawed",
+                "cavel",
+                "babel",
+                "hazel",
+                "panel"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "PANIC": {
+            "guesses": [
+                "raise",
+                "mandi",
+                "bania",
+                "panic"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "PAPER": {
+            "guesses": [
+                "raise",
+                "caret",
+                "lager",
+                "waker",
+                "payer",
+                "paper"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "PARRY": {
+            "guesses": [
+                "raise",
+                "yarco",
+                "bardy",
+                "parky",
+                "parly",
+                "parry"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "PEACH": {
+            "guesses": [
+                "raise",
+                "metal",
+                "heapy",
+                "peach"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "PERCH": {
+            "guesses": [
+                "raise",
+                "outer",
+                "clerk",
+                "merch",
+                "perch"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "PICKY": {
+            "guesses": [
+                "raise",
+                "linty",
+                "midgy",
+                "piccy",
+                "picky"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "PILOT": {
+            "guesses": [
+                "raise",
+                "linty",
+                "kitul",
+                "pilot"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "PITHY": {
+            "guesses": [
+                "raise",
+                "linty",
+                "ditzy",
+                "pithy"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "PLUCK": {
+            "guesses": [
+                "raise",
+                "phony",
+                "plumb",
+                "pluck"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "POINT": {
+            "guesses": [
+                "raise",
+                "cling",
+                "joint",
+                "noint",
+                "point"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "POUND": {
+            "guesses": [
+                "raise",
+                "phony",
+                "pound"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "PRICK": {
+            "guesses": [
+                "raise",
+                "gript",
+                "crimp",
+                "prick"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "PRIDE": {
+            "guesses": [
+                "raise",
+                "trice",
+                "gride",
+                "bride",
+                "pride"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "PRINT": {
+            "guesses": [
+                "raise",
+                "gript",
+                "print"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "PROVE": {
+            "guesses": [
+                "raise",
+                "crore",
+                "droke",
+                "trope",
+                "probe",
+                "prole"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "PROXY": {
+            "guesses": [
+                "raise",
+                "truly",
+                "drony",
+                "frory",
+                "grovy",
+                "proxy"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "PULPY": {
+            "guesses": [
+                "raise",
+                "phony",
+                "pudgy",
+                "pulpy"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "QUERY": {
+            "guesses": [
+                "raise",
+                "outer",
+                "quern",
+                "query"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "QUIET": {
+            "guesses": [
+                "raise",
+                "teind",
+                "evict",
+                "quiet"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "RADIO": {
+            "guesses": [
+                "raise",
+                "ranid",
+                "radii",
+                "radio"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "REACT": {
+            "guesses": [
+                "raise",
+                "renal",
+                "react"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "REBUS": {
+            "guesses": [
+                "raise",
+                "rosed",
+                "reeks",
+                "rebus"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "REBUT": {
+            "guesses": [
+                "raise",
+                "roted",
+                "rebut"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "REPAY": {
+            "guesses": [
+                "raise",
+                "renal",
+                "rebar",
+                "recap",
+                "repay"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "RETCH": {
+            "guesses": [
+                "raise",
+                "roted",
+                "retch"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "RHINO": {
+            "guesses": [
+                "raise",
+                "rhino"
+            ],
+            "is_solved": true,
+            "num_guesses": 2
+        },
+        "ROBOT": {
+            "guesses": [
+                "raise",
+                "rumpy",
+                "robot"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "ROGUE": {
+            "guesses": [
+                "raise",
+                "rhone",
+                "roule",
+                "rogue"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ROUGE": {
+            "guesses": [
+                "raise",
+                "rhone",
+                "roule",
+                "rouge"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "ROUND": {
+            "guesses": [
+                "raise",
+                "rumpy",
+                "rough",
+                "round"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "SALAD": {
+            "guesses": [
+                "raise",
+                "lants",
+                "salol",
+                "salad"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "SEEDY": {
+            "guesses": [
+                "raise",
+                "lotes",
+                "pesky",
+                "sedgy",
+                "seedy"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "SERVE": {
+            "guesses": [
+                "raise",
+                "store",
+                "serge",
+                "serve"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "SHIRE": {
+            "guesses": [
+                "raise",
+                "shire"
+            ],
+            "is_solved": true,
+            "num_guesses": 2
+        },
+        "SHRUB": {
+            "guesses": [
+                "raise",
+                "turds",
+                "scrub",
+                "shrub"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "SIEGE": {
+            "guesses": [
+                "raise",
+                "sidhe",
+                "siege"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "SISSY": {
+            "guesses": [
+                "raise",
+                "cissy",
+                "hissy",
+                "kissy",
+                "missy",
+                "pissy"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "SLUMP": {
+            "guesses": [
+                "raise",
+                "sloot",
+                "slubs",
+                "slung",
+                "sluff",
+                "slump"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "SMART": {
+            "guesses": [
+                "raise",
+                "brats",
+                "stark",
+                "scart",
+                "slart",
+                "smart"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "SOLAR": {
+            "guesses": [
+                "raise",
+                "brats",
+                "scrap",
+                "sofar",
+                "solar"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "SOLVE": {
+            "guesses": [
+                "raise",
+                "stole",
+                "solde",
+                "solve"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "SONIC": {
+            "guesses": [
+                "raise",
+                "lints",
+                "sonic"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "SOWER": {
+            "guesses": [
+                "raise",
+                "sored",
+                "sober",
+                "soger",
+                "soler",
+                "sower"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "SPEND": {
+            "guesses": [
+                "raise",
+                "lotes",
+                "pesky",
+                "spend"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "SPICY": {
+            "guesses": [
+                "raise",
+                "slipt",
+                "spics",
+                "spick",
+                "spicy"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "SPIKE": {
+            "guesses": [
+                "raise",
+                "slipe",
+                "spice",
+                "spide",
+                "spike"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "SPRAY": {
+            "guesses": [
+                "raise",
+                "brats",
+                "scrap",
+                "sprad",
+                "sprag",
+                "spray"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "STAFF": {
+            "guesses": [
+                "raise",
+                "smalt",
+                "skats",
+                "stang",
+                "staff"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "STAND": {
+            "guesses": [
+                "raise",
+                "smalt",
+                "skats",
+                "stang",
+                "stand"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "START": {
+            "guesses": [
+                "raise",
+                "brats",
+                "stark",
+                "starn",
+                "starr",
+                "start"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "STEED": {
+            "guesses": [
+                "raise",
+                "lotes",
+                "skeet",
+                "steed"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "STINK": {
+            "guesses": [
+                "raise",
+                "slipt",
+                "skits",
+                "stick",
+                "stink"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "STOOL": {
+            "guesses": [
+                "raise",
+                "sloot",
+                "stool"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "STORE": {
+            "guesses": [
+                "raise",
+                "store"
+            ],
+            "is_solved": true,
+            "num_guesses": 2
+        },
+        "STOUT": {
+            "guesses": [
+                "raise",
+                "sloot",
+                "scout",
+                "shout",
+                "smout",
+                "snout"
+            ],
+            "is_solved": false,
+            "num_guesses": 6
+        },
+        "SURER": {
+            "guesses": [
+                "raise",
+                "sored",
+                "sprew",
+                "serer",
+                "surer"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "SWIRL": {
+            "guesses": [
+                "raise",
+                "brits",
+                "skirr",
+                "spiry",
+                "swirl"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "TANGY": {
+            "guesses": [
+                "raise",
+                "manly",
+                "candy",
+                "janty",
+                "tangy"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "TAPIR": {
+            "guesses": [
+                "raise",
+                "pardi",
+                "tapir"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "THUMB": {
+            "guesses": [
+                "raise",
+                "phony",
+                "chuck",
+                "thumb"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "TIGER": {
+            "guesses": [
+                "raise",
+                "idler",
+                "niter",
+                "tiger"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "TILDE": {
+            "guesses": [
+                "raise",
+                "ligne",
+                "fille",
+                "tilde"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "TOTEM": {
+            "guesses": [
+                "raise",
+                "toled",
+                "token",
+                "totem"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "TRACE": {
+            "guesses": [
+                "raise",
+                "crate",
+                "trace"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "TRAWL": {
+            "guesses": [
+                "raise",
+                "boart",
+                "trank",
+                "tramp",
+                "trawl"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "TRIAD": {
+            "guesses": [
+                "raise",
+                "trial",
+                "triac",
+                "triad"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "TROLL": {
+            "guesses": [
+                "raise",
+                "truly",
+                "troll"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "TRUSS": {
+            "guesses": [
+                "raise",
+                "prost",
+                "truss"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "TWEED": {
+            "guesses": [
+                "raise",
+                "toled",
+                "tewed",
+                "tweed"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "UNFED": {
+            "guesses": [
+                "raise",
+                "toled",
+                "feued",
+                "unfed"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "UNIFY": {
+            "guesses": [
+                "raise",
+                "cling",
+                "inion",
+                "unify"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "UNMET": {
+            "guesses": [
+                "raise",
+                "toled",
+                "unget",
+                "unket",
+                "unmet"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "USHER": {
+            "guesses": [
+                "raise",
+                "sored",
+                "crees",
+                "esker",
+                "usher"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "USING": {
+            "guesses": [
+                "raise",
+                "slipt",
+                "hoiks",
+                "using"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "VIRAL": {
+            "guesses": [
+                "raise",
+                "chair",
+                "libra",
+                "viral"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "VITAL": {
+            "guesses": [
+                "raise",
+                "liana",
+                "cital",
+                "dital",
+                "vital"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "VODKA": {
+            "guesses": [
+                "raise",
+                "coala",
+                "ponga",
+                "douma",
+                "hodja",
+                "vodka"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "WEARY": {
+            "guesses": [
+                "raise",
+                "denar",
+                "heart",
+                "leary",
+                "weary"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "WHELP": {
+            "guesses": [
+                "raise",
+                "toled",
+                "newly",
+                "whelk",
+                "whelm",
+                "whelp"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "WINCE": {
+            "guesses": [
+                "raise",
+                "ligne",
+                "mince",
+                "wince"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        },
+        "WOOER": {
+            "guesses": [
+                "raise",
+                "outer",
+                "moper",
+                "cower",
+                "woker",
+                "wooer"
+            ],
+            "is_solved": true,
+            "num_guesses": 6
+        },
+        "WORLD": {
+            "guesses": [
+                "raise",
+                "truly",
+                "world"
+            ],
+            "is_solved": true,
+            "num_guesses": 3
+        },
+        "WROTE": {
+            "guesses": [
+                "raise",
+                "crore",
+                "droke",
+                "trope",
+                "wrote"
+            ],
+            "is_solved": true,
+            "num_guesses": 5
+        },
+        "YEARN": {
+            "guesses": [
+                "raise",
+                "denar",
+                "learn",
+                "yearn"
+            ],
+            "is_solved": true,
+            "num_guesses": 4
+        }
+    },
+    "strategy": "worst_partition"
+}
