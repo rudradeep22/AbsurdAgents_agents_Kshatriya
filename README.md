@@ -6,7 +6,7 @@
 ## Usage 
 Git clone the repository 
 ```bash
-git clone https://github.com/Ritvik25goyal/AbsurdAgents_agents_Kshatriya.git
+git clone https://github.com/rudradeep22/AbsurdAgents_agents_Kshatriya.git
 ```
 change the working directory to the server
 ```
@@ -27,10 +27,16 @@ run it to play with server
 python script.py
 ```
 ### For Schrödinger's cat:
-
+change working to Schrodinger:
+```shell
+cd Schrodinger
+```
+- `script.py` -> Is Agent for Schrödinger's cat
+run it to play with server
+```shell
+python script.py
+```
 ### For Wordle , Evil Wordle and dordle :
-
-
 - `parse_data.py` -> parse the raw data contained in data-raw and put it into data-parsed
 - `possibilities_table.py` -> compute the possibilities matrix
 - `solvewordle.py` -> Is an agent for Wordle. It playes on server
@@ -43,6 +49,7 @@ python parse_data.py
 python possibilities_table.py
 ```
 Then you can run the agents with:
+
 for Wordle - 
 ```shell
 python solvewordle.py
