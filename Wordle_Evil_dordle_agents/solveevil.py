@@ -15,8 +15,7 @@ from parse_data import read_all_answers, read_parsed_words, read_past_answers
 from play import RIGHT_PLACE, eval_guess, WRONG_PLACE, LETTER_ABSENT
 from possibilities_table import (
     array_to_integer,
-    load_possibilities_table,
-    load_possibilities_table_df,
+    load_possibilities_table
 )
 
 FIRST_GUESS_WORD = "serai"
@@ -62,7 +61,7 @@ def solver(words: List[str],conn):
     """
     first_word = "serai"
     strategy = "worst_partition"
-    matrix_df_path = None
+    matrix_df_path = "data-parsed\possibilities-table-base-3.npy"
     verbose = True
 
 
@@ -131,7 +130,7 @@ def solvernoprint(words: List[str],conn):
     """
     first_word = "serai"
     strategy = "worst_partition"
-    matrix_df_path = None
+    matrix_df_path = "data-parsed\possibilities-table-base-3.npy"
     verbose = True
 
 
