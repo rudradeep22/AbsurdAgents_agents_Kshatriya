@@ -81,8 +81,6 @@ def solver(words: List[str],conn):
             if not is_solved1:
                 if ((table1.shape[0] != 0)):
                     guess = get_next_guess(table1, strategy=strategy)
-                elif ((table2.shape[0] != 0)):
-                    guess = get_next_guess(table2, strategy=strategy)
                 else:
                     guess = "wrong"
             else:
@@ -178,8 +176,6 @@ def solvernoprint(words: List[str],conn,tries,max_tries,min_tries):
             if not is_solved1:
                 if ((table1.shape[0] != 0)):
                     guess = get_next_guess(table1, strategy=strategy)
-                elif ((table2.shape[0] != 0)):
-                    guess = get_next_guess(table2, strategy=strategy)
                 else:
                     guess = "wrong"
             else:
