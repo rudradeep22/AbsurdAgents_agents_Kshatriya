@@ -56,9 +56,9 @@ def solvenoprint(game,conn,tries,max_tries,min_tries):
         word_seen_list = [*(word_seen.lower())]
         if "_" not in word_seen_list:
             conn.recvuntil(b"win!\n")
-            max_tries[0] = max((6-tries_remains),max_tries[0])
-            min_tries[0] = min((6-tries_remains),min_tries[0])
-            tries[0] += (6-tries_remains)
+            max_tries[0] = max((7-tries_remains),max_tries[0])
+            min_tries[0] = min((7-tries_remains),min_tries[0])
+            tries[0] += (7-tries_remains)
             return True
             
         guess_letter = game.guess(word_seen_list)
