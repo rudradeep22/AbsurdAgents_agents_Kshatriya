@@ -1,34 +1,22 @@
 from pwnlib.tubes.remote import remote
 from tqdm import tqdm
-import argparse
 import time
-
-
-def arg_parser():
-    parser = argparse.ArgumentParser(description="script config")
-    parser.add_argument("--train_set", type=str, default="words_250000_train.txt",
-                        help="path of the train dictionary")
-    parser.add_argument("--setting", type=str, default="manual",
-                        help="manual for playing by yourself \n auto for letting agent play it")
-    args = parser.parse_args()
-    return args
-
 
 def solve( conn):
     sequence = ["2", "3", "4", "4", "3", "2"]
     is_solved = False
     trial = 0
     while not is_solved:
-        print(conn.recvuntil(b'position:').decode())
+        print(conn.recvuntil(b'position: ').decode())
         check = conn.recvline().decode()
-        print(check)
+        print(check.strip("\n"))
         if ("X" in check):
             return True
         guess = sequence[trial]
         print(conn.recvuntil(b'position: ').decode())
         print(guess)
         conn.sendline(guess.encode())
-        print(conn.recvline().decode())
+        print(conn.recvline().decode().strip("\n"))
         trial+=1
         
 
@@ -43,9 +31,9 @@ def solvenoprint(conn, tries, max_tries, min_tries):
         check = conn.recvline().decode()
         check
         if ("X" in check):
-            max_tries[0] = max(trial-1, max_tries[0])
-            min_tries[0] = min(trial-1, min_tries[0])
-            tries[0] += trial-1
+            max_tries[0] = max(trial, max_tries[0])
+            min_tries[0] = min(trial, min_tries[0])
+            tries[0] += trial
             return True
         guess = sequence[trial]
         conn.recvuntil(b'position: ').decode()
@@ -55,7 +43,6 @@ def solvenoprint(conn, tries, max_tries, min_tries):
         trial+=1
 
 if __name__ == "__main__":
-    args = arg_parser()
     server_ip = input("Enter the server IP : ")
     server_port = input("Enter the port : ")
     playing_type = input("Want to play interactive(i) or automatic(a) : ")
@@ -97,7 +84,7 @@ if __name__ == "__main__":
                 conn.sendline(b"y")
             print(f"you win {no_of_wins} times and you loss {no_of_loss} times")    
             print(f"your highest streak was {streak}")
-            print(f"Mean wrong tries it takes to guess are {tries[0]/no_of_wins}")
-            print(f"Max wrong tries it takes to guess are {max_tries[0]}")
-            print(f"Min wrong tries it takes to guess are {min_tries[0]}")
+            print(f"Mean tries it takes to guess are {tries[0]/no_of_wins}")
+            print(f"Max tries it takes to guess are {max_tries[0]}")
+            print(f"Min tries it takes to guess are {min_tries[0]}")
 

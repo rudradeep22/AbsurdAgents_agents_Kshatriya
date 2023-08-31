@@ -17,7 +17,7 @@ def solve(game,conn):
     game.guessed_letters = []
     game.current_dictionary = game.full_dictionary
     num_words = len(game.full_dictionary)
-    tries_remains = 6
+    tries_remains = 7
     is_solved = False
     while tries_remains > 0 and not is_solved:
         print(conn.recvuntil(b"word: ").decode(),end="")
@@ -48,7 +48,7 @@ def solvenoprint(game,conn,tries,max_tries,min_tries):
     game.guessed_letters = []
     game.current_dictionary = game.full_dictionary
     num_words = len(game.full_dictionary)
-    tries_remains = 6
+    tries_remains = 7
     is_solved = False
     while tries_remains > 0 and not is_solved:
         conn.recvuntil(b"word: ")
